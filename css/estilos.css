@@ -1,0 +1,5 @@
+body {
+    color: color(from color srgb r g b);
+    text-align: center;
+    font-family: "Arial";
+}
