@@ -1,4 +1,5 @@
 # hyperblog
 Un blog increible para el curso de Git y Github de Platzi
+Por Christian V
 
-Linea de prueba 
+<3
